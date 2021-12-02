@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zOqKSmfIx0CzukWf7KEYAHf8h2O0ZgqW/view?usp=sharing](https://drive.google.com/file/d/1zOqKSmfIx0CzukWf7KEYAHf8h2O0ZgqW/view?usp=sharing)
 
-- 👨‍💻 Checkout my portfolio [https://mukulhowale.netlify.app](https://mukulhowale.netlify.app)
+- 👨‍💻 Checkout my portfolio at [https://mukulhowale.netlify.app](https://mukulhowale.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
